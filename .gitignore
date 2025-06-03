@@ -1,0 +1,11 @@
+# Klasörleri ignore et
+rapor/
+runs/
+single_image_test_output_min_orj37/
+test_mask_only_2_png.rf.a8cab417ff534d5cb0e3f210dda38970/
+test_mask_only_frame_0354_x1536_y1536_png.rf.bfe8126874f22f78d2731045942641b6/
+test_results_v2_model/
+yolov8_prepared_dataset_final/
+yolov8_prepared_dataset_final_detaylıParametre/
+yolov8x-seg.pt
+*.pt
